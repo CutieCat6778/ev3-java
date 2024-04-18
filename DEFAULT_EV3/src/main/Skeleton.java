@@ -58,8 +58,8 @@ public class Skeleton {
     static boolean[] config;
 
     /**
-     * Main function of program.
-     * @param config 
+     * Initializing robot configuration
+     * @param config
      */
     
     public Skeleton(boolean[] config) {
